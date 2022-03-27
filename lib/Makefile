@@ -1,0 +1,2 @@
+build:
+	spago build

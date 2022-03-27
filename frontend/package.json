@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.4.0",
+    "process": "^0.11.10",
+    "querystring-es3": "^0.2.1",
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
+}
